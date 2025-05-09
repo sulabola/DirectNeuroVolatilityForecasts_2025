@@ -26,3 +26,9 @@ The Figure below provides a general representation of a neural network with one 
 ### Findings
 
 Experimental results show that data-driven neuro volatility models outperform GARCH-based neuro volatility models by successfully predicting changes in volatility during the testing period. Moreover, it follows from the experiment that introducing additional hidden layers or bidirectional models does not improve forecast accuracies, despite inflating the number of parameters.
+
+### References
+
+1. R. J. Hyndman and G. Athanasopoulos, Forecasting: principles and practice, 3rd edition, OTexts: Melbourne, Australia. OTexts.com/fpp3, 2021.
+2. Thavaneswaran, A., Paseka, A., \& Frank, J. (2020). Generalized value at risk forecasting. Communications in Statistics-Theory and Methods, 49(20), 4988-4995.
+
